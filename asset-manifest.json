@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rock-paper-scissors-lizard-spock-game/static/css/main.5515fb17.chunk.css",
+    "main.js": "/rock-paper-scissors-lizard-spock-game/static/js/main.3193bfeb.chunk.js",
+    "main.js.map": "/rock-paper-scissors-lizard-spock-game/static/js/main.3193bfeb.chunk.js.map",
+    "runtime-main.js": "/rock-paper-scissors-lizard-spock-game/static/js/runtime-main.52adf256.js",
+    "runtime-main.js.map": "/rock-paper-scissors-lizard-spock-game/static/js/runtime-main.52adf256.js.map",
+    "static/js/2.9ef139b5.chunk.js": "/rock-paper-scissors-lizard-spock-game/static/js/2.9ef139b5.chunk.js",
+    "static/js/2.9ef139b5.chunk.js.map": "/rock-paper-scissors-lizard-spock-game/static/js/2.9ef139b5.chunk.js.map",
+    "static/js/3.1889ab64.chunk.js": "/rock-paper-scissors-lizard-spock-game/static/js/3.1889ab64.chunk.js",
+    "static/js/3.1889ab64.chunk.js.map": "/rock-paper-scissors-lizard-spock-game/static/js/3.1889ab64.chunk.js.map",
+    "index.html": "/rock-paper-scissors-lizard-spock-game/index.html",
+    "static/css/main.5515fb17.chunk.css.map": "/rock-paper-scissors-lizard-spock-game/static/css/main.5515fb17.chunk.css.map",
+    "static/js/2.9ef139b5.chunk.js.LICENSE.txt": "/rock-paper-scissors-lizard-spock-game/static/js/2.9ef139b5.chunk.js.LICENSE.txt",
+    "static/media/image-rules-bonus.ca590b33.svg": "/rock-paper-scissors-lizard-spock-game/static/media/image-rules-bonus.ca590b33.svg",
+    "static/media/logo-bonus.9bf8aeb8.svg": "/rock-paper-scissors-lizard-spock-game/static/media/logo-bonus.9bf8aeb8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52adf256.js",
+    "static/js/2.9ef139b5.chunk.js",
+    "static/css/main.5515fb17.chunk.css",
+    "static/js/main.3193bfeb.chunk.js"
+  ]
+}
