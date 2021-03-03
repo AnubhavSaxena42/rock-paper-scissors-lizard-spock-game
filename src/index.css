@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  width:100%;
+  height:100%;
+  font-family: 'Barlow Semi Condensed', arial;
+}
+
+
+#root{
+  width:100%;
+  height:100%;
+
+}
